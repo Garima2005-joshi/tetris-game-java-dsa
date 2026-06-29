@@ -29,15 +29,15 @@ This project demonstrates:
 
 ## ✨ Features
 
-- ✅ Seven Tetromino Shapes
-- ✅ Piece Rotation
-- ✅ Line Clearing
-- ✅ Score System
-- ✅ Pause and Resume
-- ✅ Restart Game
-- ✅ Undo Functionality
-- ✅ Next Piece Preview
-- ✅ Game Over Detection
+- Seven Tetromino Shapes
+- Piece Rotation
+- Line Clearing
+- Score System
+- Pause and Resume
+- Restart Game
+- Undo Functionality
+- Next Piece Preview
+- Game Over Detection
 
 ---
 
